@@ -26,15 +26,15 @@ _d3.js_
 [d3's own tutorials](https://github.com/d3/d3/wiki/Tutorials)
 
 ## Applications in Data Journalism
-http://datajournalismhandbook.org/
-https://source.opennews.org/articles/interactive-data-journalism-one-semester/ 
+http://datajournalismhandbook.org/  
+https://source.opennews.org/articles/interactive-data-journalism-one-semester/  
 
 ## Sandpits
-http://jsfiddle.net/ 
-https://carto.com/ 
+http://jsfiddle.net/  
+https://carto.com/  
 jupyter notebooks
 
 ## Syllabus References
-http://datasciencemasters.org/ 
-https://github.com/briandalessandro/DataScienceCourse/blob/master/ipython/references/Syllabus_2018.pdf 
+http://datasciencemasters.org/  
+https://github.com/briandalessandro/DataScienceCourse/blob/master/ipython/references/Syllabus_2018.pdf  
 [Curriculum via. Metromap](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/) though a litte outdated (2013)
