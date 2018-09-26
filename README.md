@@ -18,9 +18,9 @@ _Theoretical_
 * The Design of Everyday Things [Norman](http://www.worldcat.org/title/design-of-everyday-things-revised-and-expanded-edition/oclc/862103168)
 
 _Applied_
-[Interactive Data Visualization for the Web](http://explore.safaribooksonline.com/book/databases/business-intelligence/9781491921296)
-[Data Visualisation: A Handbook for Data Driven Design](http://www.worldcat.org/title/data-visualisation-a-handbook-for-data-driven-design/oclc/896787455?loc=)
-[Data Visualization course at University of Washington](https://courses.cs.washington.edu/courses/cse512/18sp/)
+* [Interactive Data Visualization for the Web](http://explore.safaribooksonline.com/book/databases/business-intelligence/9781491921296)
+* [Data Visualisation: A Handbook for Data Driven Design](http://www.worldcat.org/title/data-visualisation-a-handbook-for-data-driven-design/oclc/896787455?loc=)
+* [Data Visualization course at University of Washington](https://courses.cs.washington.edu/courses/cse512/18sp/)
 
 _d3.js_
 [d3's own tutorials](https://github.com/d3/d3/wiki/Tutorials)
@@ -30,11 +30,11 @@ http://datajournalismhandbook.org/
 https://source.opennews.org/articles/interactive-data-journalism-one-semester/ 
 
 ## Sandpits
-http://jsfiddle.net/
-https://carto.com/
+http://jsfiddle.net/ 
+https://carto.com/ 
 jupyter notebooks
 
 ## Syllabus References
-http://datasciencemasters.org/
-https://github.com/briandalessandro/DataScienceCourse/blob/master/ipython/references/Syllabus_2018.pdf
+http://datasciencemasters.org/ 
+https://github.com/briandalessandro/DataScienceCourse/blob/master/ipython/references/Syllabus_2018.pdf 
 [Curriculum via. Metromap](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/) though a litte outdated (2013)
