@@ -22,7 +22,7 @@ _Applied_
 * [Data Visualisation: A Handbook for Data Driven Design](http://www.worldcat.org/title/data-visualisation-a-handbook-for-data-driven-design/oclc/896787455?loc=)
 * [Data Visualization course at University of Washington](https://courses.cs.washington.edu/courses/cse512/18sp/)
 
-_d3.js_
+_d3.js_  
 [d3's own tutorials](https://github.com/d3/d3/wiki/Tutorials)
 
 ## Applications in Data Journalism
@@ -34,7 +34,10 @@ http://jsfiddle.net/
 https://carto.com/  
 jupyter notebooks
 
+## Blogs
+https://flowingdata.com/
+
 ## Syllabus References
 http://datasciencemasters.org/  
 https://github.com/briandalessandro/DataScienceCourse/blob/master/ipython/references/Syllabus_2018.pdf  
-[Curriculum via. Metromap](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/) though a litte outdated (2013)
+[Curriculum via. Metromap](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/) though a little outdated (2013)
