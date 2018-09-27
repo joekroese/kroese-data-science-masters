@@ -6,7 +6,11 @@ Differences:
 - Focus on books over videos.
 - Larger focus on visualisation and applications in journalism
 
-## 
+## (For beginners) Introduction to Languages
+[R](http://r-statistics.co/R-Tutorial.html)
+[Python](https://www.codecademy.com/learn/learn-python)
+
+## Data Processing
 [From ASCII to Answers: Advanced Topics in Data Processing](http://db.csail.mit.edu/6.885/)
 
 ## Data Visualisation
@@ -21,6 +25,9 @@ _Applied_
 * [Interactive Data Visualization for the Web](http://explore.safaribooksonline.com/book/databases/business-intelligence/9781491921296)
 * [Data Visualisation: A Handbook for Data Driven Design](http://www.worldcat.org/title/data-visualisation-a-handbook-for-data-driven-design/oclc/896787455?loc=)
 * [Data Visualization course at University of Washington](https://courses.cs.washington.edu/courses/cse512/18sp/)
+
+ggplot  
+http://r-statistics.co/ggplot2-Tutorial-With-R.html
 
 _d3.js_  
 [d3's own tutorials](https://github.com/d3/d3/wiki/Tutorials)
