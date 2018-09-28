@@ -7,8 +7,8 @@ Differences:
 - Larger focus on visualisation and applications in journalism
 
 ## (For beginners) Introduction to Languages
-[R](http://r-statistics.co/R-Tutorial.html)
-[More in-depth R](https://bookdown.org/rdpeng/RProgDA/)
+[R](http://r-statistics.co/R-Tutorial.html)  
+[More in-depth R](https://bookdown.org/rdpeng/RProgDA/)  
 [Python](https://www.codecademy.com/learn/learn-python)
 
 ## Data Processing
@@ -34,18 +34,18 @@ _d3.js_
 [d3's own tutorials](https://github.com/d3/d3/wiki/Tutorials)
 
 ## Applications in Data Journalism
-http://datajournalismhandbook.org/  
-https://source.opennews.org/articles/interactive-data-journalism-one-semester/  
+[Data Journalism Handbook](http://datajournalismhandbook.org/)  
+[Interactive Data Journalism course](https://source.opennews.org/articles/interactive-data-journalism-one-semester/)
 
 ## Sandpits
-http://jsfiddle.net/  
-https://carto.com/  
+[jsfiddle](http://jsfiddle.net/)  
+[Carto](https://carto.com/)  
 jupyter notebooks
 
 ## Blogs
-https://flowingdata.com/
+[Flowing Data](https://flowingdata.com/)
 
 ## Syllabus References
-http://datasciencemasters.org/  
-https://github.com/briandalessandro/DataScienceCourse/blob/master/ipython/references/Syllabus_2018.pdf  
+[Open Source Data Science Masters](http://datasciencemasters.org/)  
+[NYU Introduction to Data Science](https://github.com/briandalessandro/DataScienceCourse/blob/master/ipython/references/Syllabus_2018.pdf)  
 [Curriculum via. Metromap](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/) though a little outdated (2013)
