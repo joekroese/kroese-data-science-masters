@@ -8,6 +8,7 @@ Differences:
 
 ## (For beginners) Introduction to Languages
 [R](http://r-statistics.co/R-Tutorial.html)
+[More in-depth R](https://bookdown.org/rdpeng/RProgDA/)
 [Python](https://www.codecademy.com/learn/learn-python)
 
 ## Data Processing
